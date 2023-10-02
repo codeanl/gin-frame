@@ -1,0 +1,8 @@
+[GIN-VUE-BLOG] 2023/10/05 - 11:50:09	ERROR	/Users/gygy/go/src/rookieCode/utils/ip.go:86	failed to load vector index from `./assets/ip2region.xdb`: open xdb file `./assets/ip2region.xdb`: open ./assets/ip2region.xdb: no such file or directory
+
+[GIN-VUE-BLOG] 2023/10/05 - 12:48:54	ERROR	/Users/gygy/go/src/rookieCode/utils/ip.go:86	failed to load vector index from `./assets/ip2region.xdb`: open xdb file `./assets/ip2region.xdb`: open ./assets/ip2region.xdb: no such file or directory
+
+[GIN-VUE-BLOG] 2023/10/05 - 12:49:01	ERROR	/Users/gygy/go/src/rookieCode/utils/ip.go:86	failed to load vector index from `./assets/ip2region.xdb`: open xdb file `./assets/ip2region.xdb`: open ./assets/ip2region.xdb: no such file or directory
+
+[GIN-VUE-BLOG] 2023/10/05 - 12:54:11	ERROR	/Users/gygy/go/src/rookieCode/utils/ip.go:86	failed to load vector index from `./assets/ip2region.xdb`: open xdb file `./assets/ip2region.xdb`: open ./assets/ip2region.xdb: no such file or directory
+
